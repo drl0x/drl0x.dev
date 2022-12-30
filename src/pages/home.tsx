@@ -42,7 +42,7 @@ export const Home = () => {
               window.location.href = 'https://twitter.com/drl0x_';
             }}
           >
-            {process.env.NAME}
+            drl0x_
           </TitleSpan>
         </TitleWrapper>
       </HomeContent>
